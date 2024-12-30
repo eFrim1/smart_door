@@ -1,0 +1,5 @@
+.pio
+.idea
+.vscode
+.clang-format
+.clang-tidy
