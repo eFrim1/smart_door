@@ -63,3 +63,4 @@ A microcontroller-based device that detects and matches knocking patterns on a d
 3. Power the device and test the knock detection.
 4. Refer to the included schematic for wiring details.
 
+![Screenshot from 2025-03-13 22-57-48](https://github.com/user-attachments/assets/8ae7fc14-2ff0-4162-9a8b-a91de45e5f62)
